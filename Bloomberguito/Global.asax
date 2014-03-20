@@ -1,1 +1,1 @@
-﻿<%@ Application Inherits="Bloomberguito.MvcApplication" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Bloomberguito.MvcApplication" Language="C#" %>
