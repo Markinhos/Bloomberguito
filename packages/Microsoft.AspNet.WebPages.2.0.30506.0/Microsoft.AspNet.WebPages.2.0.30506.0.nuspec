@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
-=======
-<?xml version="1.0"?>
->>>>>>> FETCH_HEAD
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Microsoft.AspNet.WebPages</id>
